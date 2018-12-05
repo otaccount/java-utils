@@ -1,1 +1,5 @@
+src/main/java以外をソースフォルダとする場合
 http://java-study.blog.jp/archives/1067483073.html
+
+gradle参考
+http://www.ne.jp/asahi/hishidama/home/tech/groovy/gradle/java.html
