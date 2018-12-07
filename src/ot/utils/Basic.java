@@ -1,7 +1,11 @@
 package ot.utils;
 
 public class Basic {
-	protected static void out(Object obj) {
+	/** 定数 */
+	public static final String SAMPLE = "sample";
+	
+	/** ユーティリティ */
+	public static void out(Object obj) {
 		System.out.println(obj);
 	}
 }
